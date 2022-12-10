@@ -1,1 +1,1 @@
-# algorithm
+# bioinf algorithm
